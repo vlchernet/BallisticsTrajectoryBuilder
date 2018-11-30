@@ -1,0 +1,4 @@
+# BallisticsTrajectoryBuilder
+This application is intended as visual demonstration of material point's cynematics.
+Try to change angle, initial velocity to get different trajectories and compare them.
+If your curves will not be placed as whole in the given space change the scale of area.
